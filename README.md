@@ -9,3 +9,5 @@ Set the following repo secrets, disable the security defaults of your E5 admin a
 | PASSWD | E5 admin passwords line separated, no leading and trailing spaces |
 
 <p align="right"><code>version@202305070221</code></p>
+
+edited on January 23rd 2024.
